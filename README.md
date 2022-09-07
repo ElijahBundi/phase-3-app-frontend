@@ -1,5 +1,8 @@
 # Phase 3 React-Frontend-App: Construction blog
 
+Project name: Construction Blog
+Author name: Elijah Bundi
+
 ## Links
 
 This are the links to the live site on GitHub Pages. 
